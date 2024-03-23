@@ -6,7 +6,7 @@ This repository contains a simple blog application built using HTML, CSS, JavaSc
 
 ### Preview
 
-![Preview](public/preview.png)
+![Preview](public/styles/preview.png)
 
 ### Features
 
